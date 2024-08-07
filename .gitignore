@@ -1,4 +1,6 @@
 Deslizamentos_Chamado_Charter_925
 *.tif
-modelos
+modelos*
 patches_charter
+'Training_TempCNN_2T_Landslides_Charter_Sao_Sebastiao (Copy 2).ipynb'
+'Training_TempCNN_2T_Landslides_Charter_Sao_Sebastiao (Copy).ipynb'
